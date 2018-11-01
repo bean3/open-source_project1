@@ -1,3 +1,3 @@
 # Hello, we are 팔색조 team!
 ## Introduce
-we develop **Open Source Book**
+we produce **Open Source homepage**
